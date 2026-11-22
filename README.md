@@ -4,7 +4,7 @@
   <!-- Replace with your selected GIF -->
   <img src="https://media.giphy.com/media/J3O9X70hjY0vbujIqN/giphy.gif" width="100%" alt="Aerospace and Space Systems Banner" />
 
-  # GEMA *LANGIT* DHUHA
+  # 🌌 GEMA *LANGIT* DHUHA 🌌
 
   ### Aspiring Multidisciplinary Student
 
@@ -118,6 +118,6 @@ I'm especially interested in research opportunities and collaborations involving
 
   <br />
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=101D35)
+  ![Profile Views](https://komarev.com/ghpvc/?username=llangit-3&style=flat-square&color=101D35)
 
 </div>
