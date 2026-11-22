@@ -128,12 +128,13 @@ Rather than focusing on software alone, I enjoy exploring the complete engineeri
   <sub>Rust: currently learning</sub>
 </p>
 
-**Data Science & Machine Learning**
+**Data Science, Machine Learning & Visualization**
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-101D35?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/LightGBM-101D35?style=for-the-badge&logoColor=8FB3FF" />
   <img src="https://img.shields.io/badge/Jupyter-101D35?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+  <img src="https://img.shields.io/badge/Tableau-101D35?style=for-the-badge&logo=tableau&logoColor=E97627" />
+  <img src="https://img.shields.io/badge/Grafana-101D35?style=for-the-badge&logo=grafana&logoColor=F46800" />
 </p>
 
 **Software & Development Tools**
