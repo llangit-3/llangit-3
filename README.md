@@ -6,14 +6,8 @@
 <br />
 
 <a href="https://github.com/llangit-3">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=8FB3FF&center=true&vCenter=true&width=640&lines=Aspiring+Multidisciplinary+Student;Astronomy+%C2%B7+Space+Systems;UAV+%C2%B7+Autonomous+Robotics;Artificial+Intelligence+%26+Computer+Vision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=8FB3FF&center=true&vCenter=true&width=700&lines=Applied+Data+Science+Student;Machine+Learning+for+Astronomy+%26+Astrophysics;UAV+%C2%B7+Space+Systems+%C2%B7+Autonomous+Robotics" alt="Typing SVG" />
 </a>
-
-<br />
-
-<img src="https://img.shields.io/badge/Field-Space%20Systems-101D35?style=for-the-badge&logo=nasa&logoColor=8FB3FF" />
-<img src="https://img.shields.io/badge/Research-UAV%20%26%20Robotics-101D35?style=for-the-badge&logo=ros&logoColor=8FB3FF" />
-<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-101D35?style=for-the-badge&logo=pytorch&logoColor=8FB3FF" />
 
 <br />
 
@@ -27,13 +21,11 @@
 
 ## 🛰️ &nbsp;About Me
 
-> *"Exploring the intersection of physics, engineering, and intelligence."*
+I'm **Langit**, an undergraduate student in **Applied Data Science**. My work centers on **data science and machine learning applied to the physical sciences**, especially astronomy and astrophysics, alongside a growing interest in **UAVs, space systems, and autonomous robotics**.
 
-I'm **Langit** (*"sky"* in Indonesian), an undergraduate student in **Applied Data Science**, interested in the research and development of intelligent engineering systems.
+I'm fascinated by how mathematical models, physical principles, embedded hardware, and intelligent algorithms can work together to build systems capable of sensing, understanding, and interacting with the physical world.
 
-My interests sit at the intersection of **astronomy and astrophysics, aerospace engineering, autonomous systems, and artificial intelligence**. I'm fascinated by how mathematical models, physical principles, embedded hardware, and intelligent algorithms can work together to build systems that **sense, understand, and interact with the physical world**.
-
-Rather than focusing on software alone, I enjoy the complete engineering process, from theoretical foundations and system design to implementation, experimentation, and analysis.
+Rather than focusing on software alone, I enjoy exploring the complete engineering process, from theoretical foundations and system design to implementation, experimentation, and analysis.
 
 <br />
 
@@ -41,6 +33,19 @@ Rather than focusing on software alone, I enjoy the complete engineering process
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+<br />
+
+### 📊 Data Science & Machine Learning
+- Deep learning and object detection
+- Machine learning for engineering applications
+- Astronomical data analysis
+- Visual perception for autonomous platforms
+
+<br />
+
+</td>
 <td width="50%" valign="top">
 
 <br />
@@ -54,19 +59,6 @@ Rather than focusing on software alone, I enjoy the complete engineering process
 <br />
 
 </td>
-<td width="50%" valign="top">
-
-<br />
-
-### 🚀 Space Systems & Aerospace
-- Spacecraft systems and subsystems
-- Attitude Determination & Control (ADCS)
-- Orbital mechanics & space dynamics
-- Space instrumentation & scientific exploration
-
-<br />
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
@@ -86,26 +78,10 @@ Rather than focusing on software alone, I enjoy the complete engineering process
 
 <br />
 
-### 🤖 Robotics & Intelligent Systems
-- Robot perception and control
-- Sensor fusion & state estimation
-- Embedded and real-time systems
-- Cyber-physical systems
-
-<br />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-<br />
-
-### 🧠 Artificial Intelligence & Computer Vision
-- Deep learning & object detection
-- Visual perception for autonomous platforms
-- Edge AI & embedded inference
-- Machine learning for engineering applications
+### 🧭 Also Exploring
+- Space systems: spacecraft subsystems, ADCS, orbital mechanics, space instrumentation
+- Robotics: perception, sensor fusion, state estimation, cyber-physical systems
+- Edge AI & embedded real-time inference
 
 <br />
 
@@ -119,11 +95,25 @@ Rather than focusing on software alone, I enjoy the complete engineering process
 
 | | Focus |
 |:--:|:--|
+| 🔭 | Data analysis of astronomical data |
+| ⚙️ | Physics-based modeling and engineering simulations |
 | 🚁 | Autonomous multirotor UAV development |
 | 👁️ | Computer vision and onboard AI for autonomous aerial platforms |
 | 🔌 | Embedded computing and real-time sensor integration |
-| ⚙️ | Physics-based modeling and engineering simulations |
-| 🔭 | Data analysis of astronomical data |
+
+<br />
+
+## 🚀 &nbsp;Selected Projects
+
+| Project | What it is | Area | Repo |
+|:--|:--|:--|:--:|
+| 🪐 **Systematic Noise Removal (WASP-39b)** | Deep learning to remove JWST instrumental systematics from NIRSpec exoplanet transit data | Astrophysics · ML | [View](https://github.com/llangit-3/systematic-removal-wasp39b) |
+| ☀️ **Total Solar Irradiance Forecasting** | Time-series forecasting of total solar irradiance | Astronomy · Data Science | [View](https://github.com/llangit-3/total-solar-irradiance-forecasting) |
+| 🛰️ **UAV Ground Control Station** | Telemetry and geospatial tooling for UAVs | Software · Geospatial | [View](https://github.com/llangit-3/drone-mavlinks) |
+| 🚁 **Autonomous Multirotor UAV** | Autonomous multirotor platform development | Aerospace · Autonomous Systems | — |
+| 👁️ **Embedded Computer Vision** | Onboard vision for autonomous platforms | AI · Robotics · Edge | — |
+
+<sub>Learning notes and smaller experiments live in [statistical-learning](https://github.com/llangit-3/statistical-learning). More projects and technical documentation will be added as development progresses.</sub>
 
 <br />
 
@@ -134,7 +124,16 @@ Rather than focusing on software alone, I enjoy the complete engineering process
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,rust&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,rust&theme=dark" /><br />
+  <sub>Rust: currently learning</sub>
+</p>
+
+**Data Science & Machine Learning**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-101D35?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/LightGBM-101D35?style=for-the-badge&logoColor=8FB3FF" />
+  <img src="https://img.shields.io/badge/Jupyter-101D35?style=for-the-badge&logo=jupyter&logoColor=F37626" />
 </p>
 
 **Software & Development Tools**
@@ -144,114 +143,10 @@ Rather than focusing on software alone, I enjoy the complete engineering process
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Jupyter-101D35?style=for-the-badge&logo=jupyter&logoColor=F37626" />
   <img src="https://img.shields.io/badge/Zed-101D35?style=for-the-badge&logo=zedindustries&logoColor=8FB3FF" />
 </p>
 
 </div>
-
-<br />
-
-## 🚀 Space Systems & Aerospace
-- Spacecraft systems and subsystems
-- Attitude Determination & Control (ADCS)
-- Orbital mechanics & space dynamics
-- Space instrumentation & scientific exploration
-
-<br />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<br />
-
-### 🚁 UAV & Autonomous Systems
-- Autonomous multirotor platforms
-- Flight dynamics and control
-- Navigation & trajectory planning
-- Visual navigation & autonomous landing
-
-<br />
-
-</td>
-<td width="50%" valign="top">
-
-<br />
-
-### 🤖 Robotics & Intelligent Systems
-- Robot perception and control
-- Sensor fusion & state estimation
-- Embedded and real-time systems
-- Cyber-physical systems
-
-<br />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-<br />
-
-### 🧠 Artificial Intelligence & Computer Vision
-- Deep learning & object detection
-- Visual perception for autonomous platforms
-- Edge AI & embedded inference
-- Machine learning for engineering applications
-
-<br />
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## 🧪 &nbsp;Current Research & Development
-
-| | Focus |
-|:--:|:--|
-| 🚁 | Autonomous multirotor UAV development |
-| 👁️ | Computer vision and onboard AI for autonomous aerial platforms |
-| 🔌 | Embedded computing and real-time sensor integration |
-| ⚙️ | Physics-based modeling and engineering simulations |
-| 🔭 | Data analysis of astronomical data |
-
-<br />
-
-## 🛠️ &nbsp;Technical Skills & Tools
-
-**Programming Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,rust&theme=dark" />
-</p>
-
-**Software & Development Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-101D35?style=for-the-badge&logo=jupyter&logoColor=F37626" />
-  <img src="https://img.shields.io/badge/Zed-101D35?style=for-the-badge&logo=zedindustries&logoColor=8FB3FF" />
-</p>
-
-<br />
-
-## 🚀 &nbsp;Selected Projects
-
-| Project | Research Area | Domain |
-|:--|:--|:--:|
-| 🚁 **Autonomous Multirotor UAV** | Aerospace / Autonomous Systems | `Aerospace` |
-| 🛰️ **UAV Ground Control Station** | Software / Telemetry / Geospatial Systems | `Software` |
-| 👁️ **Embedded Computer Vision** | AI / Robotics / Edge Computing | `AI` |
-| 🪐 **Systematic Noise Removal (WASP-39b)** | Computational Science / Astrophysics Instrumentation | `Astro` |
-
-<sub>*More projects and technical documentation will be added as development progresses.*</sub>
 
 <br />
 
