@@ -38,16 +38,6 @@ My interests sit at the intersection of **astronomy and astrophysics, aerospace 
 
 Rather than focusing on software alone, I enjoy the complete engineering process, from theoretical foundations and system design to implementation, experimentation, and analysis.
 
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#101D35','primaryBorderColor':'#8FB3FF','primaryTextColor':'#E6EDF7','lineColor':'#8FB3FF','fontFamily':'monospace'}}}%%
-flowchart LR
-    A([🌌 Physics & Math]) --> D{{🧠 Intelligent<br/>Systems}}
-    B([🚀 Aerospace & Space]) --> D
-    C([🤖 Embedded & Robotics]) --> D
-    E([📊 Data & AI]) --> D
-    D --> F([🛸 Sense · Understand · Act])
-```
-
 <br />
 
 ## 🔭 &nbsp;Research Interests
