@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050B18,50:101D35,100:2B4C8C&text=GEMA%20LANGIT%20DHUHA&fontColor=E6EDF7&fontSize=48&fontAlignY=36&desc=Physics%20%C2%B7%20Engineering%20%C2%B7%20Intelligence&descColor=8FB3FF&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050B18,50:101D35,100:2B4C8C&text=GEMA%20LANGIT%20DHUHA&fontColor=E6EDF7&fontSize=48&fontAlignY=36&desc=Astronomy%20%C2%B7%20Data%20%C2%B7%20Engineering&descColor=8FB3FF&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
 
 <img
   src="assets/Space%20Science%20Animation%20GIF%20by%20European%20Space%20Agency%20-%20ESA.gif"
