@@ -140,7 +140,12 @@ Rather than focusing on software alone, I enjoy the complete engineering process
 **Software & Development Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,jupyter,zed&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-101D35?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+  <img src="https://img.shields.io/badge/Zed-101D35?style=for-the-badge&logo=zedindustries&logoColor=8FB3FF" />
 </p>
 
 </div>
@@ -227,7 +232,12 @@ Rather than focusing on software alone, I enjoy the complete engineering process
 **Software & Development Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,jupyter,zed&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-101D35?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+  <img src="https://img.shields.io/badge/Zed-101D35?style=for-the-badge&logo=zedindustries&logoColor=8FB3FF" />
 </p>
 
 <br />
