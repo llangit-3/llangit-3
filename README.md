@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050B18,50:101D35,100:2B4C8C&text=GEMA%20LANGIT%20DHUHA&fontColor=E6EDF7&fontSize=48&fontAlignY=36&desc=Astronomy%20%C2%B7%20Data%20%C2%B7%20Engineering&descColor=8FB3FF&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=0:1B3A6B,50:2F5FA8,100:5B8DEF&text=GEMA%20LANGIT%20DHUHA&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Astronomy%20%C2%B7%20Data%20%C2%B7%20Engineering&descColor=DCE8FF&descSize=18&descAlignY=58" width="100%" alt="Gema Langit Dhuha" />
+<img src="assets/Space%20Science%20Animation%20GIF%20by%20European%20Space%20Agency%20-%20ESA.gif" width="100%" alt="Aerospace and Space Systems Banner" style="display:block" />
 
-<img
-  src="assets/Space%20Science%20Animation%20GIF%20by%20European%20Space%20Agency%20-%20ESA.gif"
-  width="100%"
-  alt="Aerospace and Space Systems Banner"
-/>
+<br />
 
 <a href="https://github.com/llangit-3">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=8FB3FF&center=true&vCenter=true&width=640&lines=Aspiring+Multidisciplinary+Student;Astronomy+%C2%B7+Space+Systems;UAV+%C2%B7+Autonomous+Robotics;Artificial+Intelligence+%26+Computer+Vision" alt="Typing SVG" />
@@ -174,6 +171,6 @@ I'm especially interested in research opportunities and collaborations involving
 
 ![Profile Views](https://komarev.com/ghpvc/?username=llangit-3&style=for-the-badge&color=101D35&label=VISITORS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2B4C8C,50:101D35,100:050B18&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5B8DEF,50:2F5FA8,100:1B3A6B&section=footer" width="100%" alt="Footer" />
 
 </div>
