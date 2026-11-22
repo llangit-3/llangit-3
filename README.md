@@ -43,14 +43,20 @@ Rather than focusing on software alone, I enjoy the complete engineering process
 <tr>
 <td width="50%" valign="top">
 
+<br />
+
 ### 🌌 Astronomy & Astrophysics
 - Stellar astrophysics & celestial mechanics
 - Cosmology & the evolution of the universe
 - Observational astronomy & data analysis
 - Exoplanets, planetary science & exploration
 
+<br />
+
 </td>
 <td width="50%" valign="top">
+
+<br />
 
 ### 🚀 Space Systems & Aerospace
 - Spacecraft systems and subsystems
@@ -58,10 +64,14 @@ Rather than focusing on software alone, I enjoy the complete engineering process
 - Orbital mechanics & space dynamics
 - Space instrumentation & scientific exploration
 
+<br />
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+<br />
 
 ### 🚁 UAV & Autonomous Systems
 - Autonomous multirotor platforms
@@ -69,8 +79,12 @@ Rather than focusing on software alone, I enjoy the complete engineering process
 - Navigation & trajectory planning
 - Visual navigation & autonomous landing
 
+<br />
+
 </td>
 <td width="50%" valign="top">
+
+<br />
 
 ### 🤖 Robotics & Intelligent Systems
 - Robot perception and control
@@ -78,13 +92,111 @@ Rather than focusing on software alone, I enjoy the complete engineering process
 - Embedded and real-time systems
 - Cyber-physical systems
 
+<br />
+
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
+<br />
+
 ### 🧠 Artificial Intelligence & Computer Vision
-Deep learning & object detection &nbsp;·&nbsp; Visual perception for autonomous platforms &nbsp;·&nbsp; Edge AI & embedded inference &nbsp;·&nbsp; Machine learning for engineering applications
+- Deep learning & object detection
+- Visual perception for autonomous platforms
+- Edge AI & embedded inference
+- Machine learning for engineering applications
+
+<br />
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## 🧪 &nbsp;Current Research & Development
+
+| | Focus |
+|:--:|:--|
+| 🚁 | Autonomous multirotor UAV development |
+| 👁️ | Computer vision and onboard AI for autonomous aerial platforms |
+| 🔌 | Embedded computing and real-time sensor integration |
+| ⚙️ | Physics-based modeling and engineering simulations |
+| 🔭 | Data analysis of astronomical data |
+
+<br />
+
+<div align="center">
+
+<h2>🛠️ &nbsp;Technical Skills & Tools</h2>
+
+**Programming Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,rust&theme=dark" />
+</p>
+
+**Software & Development Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,jupyter,zed&theme=dark" />
+</p>
+
+</div>
+
+<br />
+
+## 🚀 Space Systems & Aerospace
+- Spacecraft systems and subsystems
+- Attitude Determination & Control (ADCS)
+- Orbital mechanics & space dynamics
+- Space instrumentation & scientific exploration
+
+<br />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<br />
+
+### 🚁 UAV & Autonomous Systems
+- Autonomous multirotor platforms
+- Flight dynamics and control
+- Navigation & trajectory planning
+- Visual navigation & autonomous landing
+
+<br />
+
+</td>
+<td width="50%" valign="top">
+
+<br />
+
+### 🤖 Robotics & Intelligent Systems
+- Robot perception and control
+- Sensor fusion & state estimation
+- Embedded and real-time systems
+- Cyber-physical systems
+
+<br />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<br />
+
+### 🧠 Artificial Intelligence & Computer Vision
+- Deep learning & object detection
+- Visual perception for autonomous platforms
+- Edge AI & embedded inference
+- Machine learning for engineering applications
+
+<br />
 
 </td>
 </tr>
