@@ -2,10 +2,16 @@
 <div align="center">
 
   <!-- Replace with your selected GIF -->
-  <img src="https://media.giphy.com/media/J3O9X70hjY0vbujIqN/giphy.gif" width="100%" alt="Aerospace and Space Systems Banner" />
+  <div align="center">
+    <img
+      src="assets/Space Science Animation GIF by European Space Agency - ESA.gif"
+      width="100%"
+      alt="Aerospace and Space Systems Banner"
+    />
+  </div>
 
   # 🌌 GEMA *LANGIT* DHUHA 🌌
-
+  
   ### Aspiring Multidisciplinary Student
 
   **Astronomy · Space Systems · UAV · Artificial Intelligence**
