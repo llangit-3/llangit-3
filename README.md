@@ -4,7 +4,7 @@
   <!-- Replace with your selected GIF -->
   <img src="https://media.giphy.com/media/J3O9X70hjY0vbujIqN/giphy.gif" width="100%" alt="Aerospace and Space Systems Banner" />
 
-  # [Your Name]
+  # GEMA *LANGIT* DHUHA
 
   ### Aspiring Multidisciplinary Student
 
